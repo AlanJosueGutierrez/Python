@@ -1,0 +1,15 @@
+#capitalize(): garantiza la primera letra en mayuscula
+#lower(): convierte toda la cadena a minusculas
+#upper(): convierte toda la cadena a mayuscualas
+#title(): convierte la primera letra de cada palabra a mayusculas
+#swapcase(): convierte mayusculas a minusculas y viceversa.
+#count(): cuenta el numero de veces que aparece un texto dentro de otro texto
+#len se usa para obtener el numero de caracteres de una cadena
+#startswitch():devolverá True si el principio de la cadena coincide con la subcadena.
+#endswitch(): devolverá True si el final de la cadena coincide con la subcadena
+#find(): se usa para buscar la posición de una subcadena en una cadena en Python.
+#lstrip() para quitar los caracteres de espacio vacío del lado izquierdo de una cadena.
+#rstrip() para quitar los caracteres de espacio vacío del lado derecho de una cadena.
+#strip() para quitar los caracteres de espacio vacío del lado derecho y el izquierdo de una cadena.
+#format(): puede dar formato a los valores combinados para su visualización adecuada, como en el caso de números, fechas y horas.
+#Uso de f para formatear cadenas de texto.
